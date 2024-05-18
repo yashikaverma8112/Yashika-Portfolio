@@ -1,0 +1,40 @@
+.edu-box{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    padding-bottom: 3rem;
+}
+h1{
+    text-align: center;
+    color: chartreuse;
+    margin: 24px;
+}
+hr{
+    width: 300px;
+    
+}
+.collg h5{
+    color: rgb(210, 202, 202);
+}
+.collg p{
+    margin-left:49px ;
+}
+.collg{
+    
+    margin: 20px;
+    position: relative;
+    padding-left: 1rem;
+    padding-top: 2rem;
+    border-top: 1px solid gray;
+}
+
+.collg:hover ,p:hover{
+    color: gray;
+    
+}
+@media screen and (max-width:640px){
+    .edu-box{
+        grid-template-columns: 1fr;
+        
+    }
+}

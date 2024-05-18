@@ -1,0 +1,10 @@
+.light-theme{
+ --bg-clr : pink;
+ --primary-heading : ;
+ --secondary-clr : black;
+}
+.dark-theme{
+    --bg-clr : black;
+    --secondary-clr : white;
+   --primary-heading : chartreuse;
+}
