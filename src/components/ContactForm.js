@@ -23,7 +23,7 @@ const ContactForm = () => {
  
   const onSubmit =  e => {
     e.preventDefault();
-     axios.post("http://localhost:3000/contact/",user)
+     axios.post("https://yashika-portfolio.onrender.com/contact/",user)
           .then(response => setMsg(response.data.respMesg));
                
   };
