@@ -26,7 +26,7 @@ const ProjectList = () => {
 teachers and peers to respond remotly. A hesitation-free zone fordoubts, ensuring swift, comprehensive solutions,
 and collaborative learning.
  </p>
-      <p> <Link to="https://github.com/yashikaverma8112/Unify" style={{  color: "chartreuse"}}>Github Link</Link></p>
+      <p> <Link to="https://github.com/yashikaverma8112/Unify-Project" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='emosense'>
       <h5>React JS || Node JS || MongoDB || Bootstrap || Flask || RestFulAPI || LSTM || BiLSTM || DeepLearning || JWT</h5> 
