@@ -105,17 +105,6 @@ const ProjectList = () => {
             <p> <Link to="https://github.com/yashikaverma8112/Vedio_conferencing" style={{ color: "chartreuse" }}>Link</Link></p>
           </div>
 
-          <div className='Todo'>
-            <h5>ToDo-App</h5>
-            <br></br>
-            <p>HTML5 || CSS3 || Javascript  </p>
-            <br></br>
-            <img src={Todo}></img>
-            <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
-            </p>
-            <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{ color: "chartreuse" }}>Link</Link></p>
-          </div>
-
           <div className='frontend'>
             <h5>FitnessClub</h5>
             <br></br>
@@ -127,6 +116,17 @@ const ProjectList = () => {
             <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{ color: "chartreuse" }}>Link</Link></p>
           </div>
 
+
+          <div className='Todo'>
+            <h5>ToDo-App</h5>
+            <br></br>
+            <p>HTML5 || CSS3 || Javascript  </p>
+            <br></br>
+            <img src={Todo}></img>
+            <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
+            </p>
+            <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{ color: "chartreuse" }}>Link</Link></p>
+          </div>
 
 
           <div className='side-nav'>
