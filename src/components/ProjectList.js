@@ -18,10 +18,11 @@ const ProjectList = () => {
    
     
     <div className='unify'>
-      <h5>React JS || Node JS || MongoDB || Bootstrap || RestFulAPI || Tailwind || Firebase || JWT</h5> 
+    <h5><Link to="https://main--unify-where-knowledge-connects.netlify.app/" style={{  color: "chartreuse"}}>Unify</Link></h5>
       <br></br>
-    
+  
       <img src={unify}></img>
+      <h5>React JS || Node JS || MongoDB || Bootstrap || RestFulAPI || Tailwind || Firebase || JWT</h5> 
       <p>Facilitating seamless communication, our platform empowers students to voice their queries while enabling 
 teachers and peers to respond remotly. A hesitation-free zone fordoubts, ensuring swift, comprehensive solutions,
 and collaborative learning.
@@ -29,20 +30,22 @@ and collaborative learning.
       <p> <Link to="https://github.com/yashikaverma8112/Unify-Project" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='emosense'>
-      <h5>React JS || Node JS || MongoDB || Bootstrap || Flask || RestFulAPI || LSTM || BiLSTM || DeepLearning || JWT</h5> 
+    <h5>EmoSense-Analytics</h5>
       <br></br>
     
       <img src={emosense}></img>
+      <h5>React JS || Node JS || MongoDB || Bootstrap || Flask || RestFulAPI || LSTM || BiLSTM || DeepLearning || JWT</h5> 
       <p>EmoSense Analytics is the platform which is analysis the sentiments of movie reviews using LSTM and 
 BiLSTM, Frontend is created using React, Node is used for Authentication
  </p>
       <p> <Link to="https://github.com/yashikaverma8112/" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='wellnessBox'>
-      <h5>React JS || Node JS || MongoDB || Bootstrap || Payment Gateway || RestFulAPI || JWT</h5> 
+      <h5>WellnessBox</h5>
       <br></br>
     
       <img src={wellnessBox}></img>
+      <h5>React JS || Node JS || MongoDB || Bootstrap || Payment Gateway || RestFulAPI || JWT</h5> 
       <p>To enhance your physical fitness, prioritize mental well-being .It provides the tools & 
 resources to help you achieve your wellness goals. Razor Pay payment gateway is used for seamless payment
  </p>
@@ -50,30 +53,33 @@ resources to help you achieve your wellness goals. Razor Pay payment gateway is 
     </div>
 
     <div className='chitchat'>
-      <h5>React JS || Node JS || Socket.IO || Bootstrap  </h5> 
+  <h5>ChitChat</h5>
       <br></br>
     
       <img src={chitchat}></img>
+      <h5>React JS || Node JS || Socket.IO || Bootstrap  </h5> 
       <p>The ChitChat project is the implementation of is a real-time group chat application that allows you to connect and chat with friends seamlessly.
  </p>
       <p> <Link to="https://github.com/yashikaverma8112/ChitChat" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
 
     <div className='crud'>
-      <h5>React JS || Node JS || MySQL || Bootstrap || RestFulAPI </h5> 
+    <h5>CRUD</h5>
       <br></br>
     
       <img src={crud}></img>
+      <h5>React JS || Node JS || MySQL || Bootstrap || RestFulAPI </h5> 
       <p>The project is the implementation of Create, Read, Update, and Delete operations on a user entity. The API interacts with a MySQL database to store and retrieve user data.
  </p>
       <p> <Link to="https://github.com/yashikaverma8112/Crud_Project" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     
     <div className='auth'>
-      <h5>React JS || Node JS || MySQL || Bootstrap || JWT || RestFulAPI </h5> 
+  <h5>AuthApp</h5>
       <br></br>
     
       <img src={auth}></img>
+      <h5>React JS || Node JS || MySQL || Bootstrap || JWT || RestFulAPI </h5> 
       <p>A secure Sign In and Sign Up functionality where users can log in or registered themselves using their unique username and password.
 Implemented a Forgot password feature .
  </p>
@@ -81,46 +87,52 @@ Implemented a Forgot password feature .
     </div>
 
     <div className='vedio-conferencing'>
-      <h5>React JS || ZeGoCloud || Bootstrap  </h5> 
+      <h5>Vedio-Conferencing</h5>
       <br></br>
     
       <img src={vedioconferencing}></img>
+      <h5>React JS || ZeGoCloud || Bootstrap  </h5> 
       <p>This is the Vedio_conferencing web app provide interaction between group of people through audio,vedio,chat and also have screen recording feature 
  </p>
       <p> <Link to="https://github.com/yashikaverma8112/Vedio_conferencing" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='Todo'>
-      <h5>HTML5 || CSS3 || Javascript  </h5> 
+      <h5>ToDo-App</h5>
       <br></br>
 
-    <div className='frontend'>
-      <h5>HTML5 || CSS3 || PHP || MYSQL || APACHE </h5>
-      <br></br>
-  
-      <img src={frontend}></img>
-      <p>This project is a landing page for a gym website featuring a registration form. The backend is developed using PHP, which establishes a connection with a MySQL database hosted on phpMyAdmin. The project performs various operations such as user registration and data management. </p>
-      <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{  color: "chartreuse"}}>Github Link</Link></p>
-    </div>
-  
       <img src={Todo}></img>
+      <h5>HTML5 || CSS3 || Javascript  </h5> 
       <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
  </p>
       <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
+  
+    <div className='frontend'>
+    <h5>FitnessClub</h5>
+      <br></br>
+  
+      <img src={frontend}></img>
+      <h5>HTML5 || CSS3 || PHP || MYSQL || APACHE </h5>
+      <p>This project is a landing page for a gym website featuring a registration form. The backend is developed using PHP, which establishes a connection with a MySQL database hosted on phpMyAdmin. The project performs various operations such as user registration and data management. </p>
+      <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{  color: "chartreuse"}}>Github Link</Link></p>
+    </div>
+  
 
 
     <div className='side-nav'>
-      <h5>HTML5 || CSS3 </h5>
+    <h5>WebSathi</h5>
       <br></br>
 
       <img src={sidenav}></img>
+      <h5>HTML5 || CSS3 </h5>
       <p>This is the webpage only contain frontend of WEB DEVELOPMENT service Provider website, and have a fully funcational side navbar  </p>
       <p> <Link to="https://github.com/yashikaverma8112/Side_Navbar-" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='calculator'>
-      <h5>HTML5 || CSS3 || Javascript </h5> <br></br>
+  <h5>FinCal</h5>
    
       <img src={calculator}></img>
+      <h5>HTML5 || CSS3 || Javascript </h5> <br></br>
       <p>
 It consists simple mathematical calculator to perform simple calculation of maths
 And FINcal This FINcal project contain SIP calculator, FD calculator, RD calculator, EMI calculator with chart and graph I use some logical formula to calcuate sip, fd, rd, emi. </p>
