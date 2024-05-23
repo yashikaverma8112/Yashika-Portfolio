@@ -28,7 +28,7 @@ const ProjectList = () => {
             teachers and peers to respond remotly. A hesitation-free zone fordoubts, ensuring swift, comprehensive solutions,
             and collaborative learning.
           </p>
-          <p> <Link to="https://github.com/yashikaverma8112/Unify-Project" style={{ color: "chartreuse" }}>Link</Link></p>
+          <p> <Link to="https://main--unify-where-knowledge-connects.netlify.app/" style={{ color: "chartreuse" }}>Link</Link></p>
         </div>
 
           <div className='emosense'>
