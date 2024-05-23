@@ -92,12 +92,6 @@ Implemented a Forgot password feature .
     <div className='Todo'>
       <h5>HTML5 || CSS3 || Javascript  </h5> 
       <br></br>
-    
-      <img src={Todo}></img>
-      <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
- </p>
-      <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{  color: "chartreuse"}}>Github Link</Link></p>
-    </div>
 
     <div className='frontend'>
       <h5>HTML5 || CSS3 || PHP || MYSQL || APACHE </h5>
@@ -107,6 +101,14 @@ Implemented a Forgot password feature .
       <p>This project is a landing page for a gym website featuring a registration form. The backend is developed using PHP, which establishes a connection with a MySQL database hosted on phpMyAdmin. The project performs various operations such as user registration and data management. </p>
       <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
+  
+      <img src={Todo}></img>
+      <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
+ </p>
+      <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{  color: "chartreuse"}}>Github Link</Link></p>
+    </div>
+
+
     <div className='side-nav'>
       <h5>HTML5 || CSS3 </h5>
       <br></br>
