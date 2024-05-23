@@ -104,7 +104,7 @@ Implemented a Forgot password feature .
       <br></br>
   
       <img src={frontend}></img>
-      <p>This is the webpage only contain frontend of home page of GYM website, and Form to Register into the Gym  </p>
+      <p>This project is a landing page for a gym website featuring a registration form. The backend is developed using PHP, which establishes a connection with a MySQL database hosted on phpMyAdmin. The project performs various operations such as user registration and data management. </p>
       <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='side-nav'>
