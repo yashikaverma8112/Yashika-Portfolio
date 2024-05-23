@@ -18,11 +18,11 @@ const ProjectList = () => {
    
     
     <div className='unify'>
-    <h5><Link to="https://main--unify-where-knowledge-connects.netlify.app/" style={{  color: "chartreuse"}}>Unify</Link></h5>
+    <h5>Unify</h5>
       <br></br>
   
-      <img src={unify}></img>
       <h5>React JS || Node JS || MongoDB || Bootstrap || RestFulAPI || Tailwind || Firebase || JWT</h5> 
+      <img src={unify}></img>
       <p>Facilitating seamless communication, our platform empowers students to voice their queries while enabling 
 teachers and peers to respond remotly. A hesitation-free zone fordoubts, ensuring swift, comprehensive solutions,
 and collaborative learning.
