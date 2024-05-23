@@ -100,12 +100,12 @@ Implemented a Forgot password feature .
     </div>
 
     <div className='frontend'>
-      <h5>HTML5 || CSS3 </h5>
+      <h5>HTML5 || CSS3 || PHP || MYSQL || APACHE </h5>
       <br></br>
   
       <img src={frontend}></img>
       <p>This is the webpage only contain frontend of home page of GYM website, and Form to Register into the Gym  </p>
-      <p> <Link to="https://github.com/yashikaverma8112/Frontend" style={{  color: "chartreuse"}}>Github Link</Link></p>
+      <p> <Link to="https://github.com/yashikaverma8112/FitnessClub" style={{  color: "chartreuse"}}>Github Link</Link></p>
     </div>
     <div className='side-nav'>
       <h5>HTML5 || CSS3 </h5>
