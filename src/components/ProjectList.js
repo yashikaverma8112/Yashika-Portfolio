@@ -137,7 +137,7 @@ const ProjectList = () => {
             <br></br>
             <img src={sidenav}></img>
             <p>This is the webpage only contain frontend of WEB DEVELOPMENT service Provider website, and have a fully funcational side navbar  </p>
-            <p> <Link to="https://github.com/yashikaverma8112/Side_Navbar-" style={{ color: "chartreuse" }}>Link</Link></p>
+            <p> <Link to="https://yashikaverma8112.github.io/Side_Navbar-/" style={{ color: "chartreuse" }}>Link</Link></p>
           </div>
 
           <div className='calculator'>
