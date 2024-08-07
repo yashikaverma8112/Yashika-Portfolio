@@ -12,7 +12,9 @@ const Aboutcard = () => {
             {/* <span className='bar'></span> */}
             <p className='btc'></p>
         
-             
+             <p>C
+                   </p>
+                  <span className='bar' data-percent = "70%"><span className='cplus' style={{width:"70%"}}>  </span></span>
                 <p>C++
                    </p>
                   <span className='bar' data-percent = "40%"><span className='cplus' style={{width:"40%"}}>  </span></span>
