@@ -148,7 +148,7 @@ const ProjectList = () => {
             <p>
               It consists simple mathematical calculator to perform simple calculation of maths
               And FINcal This FINcal project contain SIP calculator, FD calculator, RD calculator, EMI calculator with chart and graph I use some logical formula to calcuate sip, fd, rd, emi. </p>
-            <p> <Link to="https://github.com/yashikaverma8112/Javascript_Calculator" style={{ color: "chartreuse" }}>Link</Link></p>
+            <p> <Link to="https://yashikaverma8112.github.io/Javascript_Calculator/index.html" style={{ color: "chartreuse" }}>Link</Link></p>
           </div>
   </div>
       )
