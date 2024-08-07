@@ -125,7 +125,7 @@ const ProjectList = () => {
             <img src={Todo}></img>
             <p>To-Do web app provides two lists for pending task and completed task, it also provides functionalities like add, edit task, delete, date & time when task uploaded to respective list
             </p>
-            <p> <Link to="https://github.com/yashikaverma8112/To-Do-Web-App/tree/main" style={{ color: "chartreuse" }}>Link</Link></p>
+            <p> <Link to="https://yashikaverma8112.github.io/To-Do-Web-App/" style={{ color: "chartreuse" }}>Link</Link></p>
           </div>
 
 
