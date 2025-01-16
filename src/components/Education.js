@@ -22,7 +22,7 @@ const Education = () => {
                     <br></br>
                     <p>
                         I am a Computer Science student at JECRC University , Specialization Full Stack & Web Development.
-                        <br></br>   CGPA - 9.46 (1st-5th sem). 
+                        <br></br>   CGPA - 9.48 (1st-6th sem). 
                     </p>
                 </div>
                 <div className="collg">
